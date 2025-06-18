@@ -1,0 +1,7 @@
+names:
+  0: drone
+  1: person
+  2: vehicle
+  3: bird
+train: images/train
+val: images/val
